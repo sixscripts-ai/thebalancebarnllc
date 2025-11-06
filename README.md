@@ -4,6 +4,7 @@ This repository contains documentation for integrating The Balance Barn's iPages
 
 ## Documentation Files
 
+- **[YOUR_SPECIFIC_SOLUTION.md](./YOUR_SPECIFIC_SOLUTION.md)** - ⭐ **START HERE!** Your exact solution for Cloudflare Pages setup
 - **[IPAGES_CLOUDFLARE_INTEGRATION.md](./IPAGES_CLOUDFLARE_INTEGRATION.md)** - Complete integration guide with detailed explanations, troubleshooting, and multiple approaches
 - **[QUICK_START_CHECKLIST.md](./QUICK_START_CHECKLIST.md)** - Step-by-step checklist to follow during the migration process
 
@@ -24,8 +25,8 @@ Migrate thebalancebarn.com from iPages to Cloudflare so it displays the same web
 
 ## Getting Started
 
-1. Read the [Quick Start Checklist](./QUICK_START_CHECKLIST.md) first
-2. Refer to the [Full Integration Guide](./IPAGES_CLOUDFLARE_INTEGRATION.md) for detailed help
+1. **Start with [YOUR_SPECIFIC_SOLUTION.md](./YOUR_SPECIFIC_SOLUTION.md)** - This has your exact setup for Cloudflare Pages
+2. Refer to the [Full Integration Guide](./IPAGES_CLOUDFLARE_INTEGRATION.md) for additional troubleshooting help
 3. Follow the steps in order
 4. Be patient - DNS changes can take 24-48 hours to fully propagate
 
